@@ -1,3 +1,3 @@
 # rewards-benefit-datamodel
-![alt text](https://github.com/mahesh-dilhan/rewards-benefit-datamodel/blob/main/data-model-v10.png
+![alt text](https://github.com/mahesh-dilhan/rewards-benefit-datamodel/blob/main/benefits-data-model-v5.png
 )
